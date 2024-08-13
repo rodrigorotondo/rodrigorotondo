@@ -1,4 +1,4 @@
-## Hello there 
+## Hello there, I'm Rodrigo!
 
 <!-- - 🔭 I’m currently working on getting my degree but i will update this when i start working on a personal project again -->
 - :atom: I study Engineering because I love to mess with stuff
