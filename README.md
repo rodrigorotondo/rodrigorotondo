@@ -1,7 +1,7 @@
 ## Hello there 
 
 <!-- - 🔭 I’m currently working on getting my degree but i will update this when i start working on a personal project again -->
-- 🌱 I study Engineering because I love to mess with stuff
+- :atom: I study Engineering because I love to mess with stuff
 - ⚡ Fun fact: I have many abilities, some considered to be....... unnatural.
 ## 🧰 Toolbox
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
