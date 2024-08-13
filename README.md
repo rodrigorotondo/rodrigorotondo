@@ -1,9 +1,9 @@
 ## Hello there 
 
-- 🔭 I’m currently working on improving my gaming setup
+<!-- - 🔭 I’m currently working on getting my degree but i will update this when i start working on a personal project again -->
 - 🌱 I study Engineering because I love to mess with stuff
-- ⚡ Fun fact: Some people would say I have many abilities, some considered to be....... unnatural.
-# 💻 Tech Stack
+- ⚡ Fun fact: I have many abilities, some considered to be....... unnatural.
+## 🧰 Toolbox
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
