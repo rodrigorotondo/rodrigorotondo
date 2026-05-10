@@ -15,4 +15,4 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorotondo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigorotondo)](https://github.com/rodrigorotondo/github-readme-stats)
